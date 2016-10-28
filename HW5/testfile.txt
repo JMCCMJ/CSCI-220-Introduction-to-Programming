@@ -1,0 +1,4 @@
+Kentucky	4,395,295	Louisville	609,893	Lexington	308,428
+North Dakota	723,393	Fargo	113,658
+West Virginia	1,854,304	none	0
+Wyoming	582,658	none	0

@@ -1,0 +1,51 @@
+Alabama	4,833,722	Birmingham	212,113	Montgomery	201,332	Mobile	194,899	Huntsville	186,254
+Alaska	735,132	Anchorage	300,950
+Arizona	6,626,624	Phoenix	1,513,367	Tucson	526,116	Mesa	457,587	Chandler	249,146	Glendale	234,632	Gilbert	229,972	Scottsdale	226,918	Tempe	168,228	Peoria	162,592	Surprise	123,546
+Arkansas	2,959,373	Little Rock	197,357
+California	38,332,521	Los Angeles	3,884,307	San Diego	1,355,896	San Jose	998,537	San Francisco	837,442	Fresno	509,924	Sacramento	479,686	Long Beach	469,428	Oakland	406,253	Bakersfield	363,630	Anaheim	345,012	Santa Ana	334,227	Riverside	316,619	Stockton	298,118	Chula Vista	256,780	Irvine	236,716	Fremont	224,922	San Bernardino	213,708	Modesto	204,933	Oxnard	203,007	Fontana	203,003	Moreno Valley	201,175	Huntington Beach	197,575	Glendale	196,021	Santa Clarita	179,590	Garden Grove	175,140	Oceanside	172,794	Santa Rosa	171,990	Rancho Cucamonga	171,386	Ontario	167,500	Elk Grove	161,007	Lancaster	159,523	Corona	159,503	Palmdale	157,161	Salinas	155,662	Hayward	151,574	Pomona	151,348	Escondido	148,738	Sunnyvale	147,559	Torrance	147,478	Orange	139,969	Pasadena	139,731	Fullerton	138,981	Thousand Oaks	128,731	Visalia	127,763	Roseville	127,035	Simi Valley	126,181	Concord	125,880	Victorville	121,096	Santa Clara	120,245	Vallejo	118,837	Berkeley	116,768	El Monte	115,708	Downey	113,242	Costa Mesa	112,174	Inglewood	111,542	Carlsbad	110,972	Fairfield	109,320	Ventura	108,817	West Covina	107,740	Richmond	107,571	Murrieta	107,479	Antioch	107,100	Temecula	106,780	Norwalk	106,589	Daly City	104,739	Burbank	104,709	Santa Maria	102,216	El Cajon	102,211	Rialto	101,910	San Mateo	101,128
+Colorado	5,268,367	Denver	649,495	Colorado Springs	439,886	Aurora	345,803	Fort Collins	152,061	Lakewood	147,214	Thornton	127,359	Arvada	111,707	Westminster	110,945	Pueblo	108,249	Centennial	106,114	Boulder	103,166
+Connecticut	3,596,080	Bridgeport	147,216	New Haven	130,660	Stamford	126,456	Hartford	125,017	Waterbury	109,676
+Delaware	925,749	none	0
+District of Columbia	646,449	Washington	646,449
+Florida	19,552,860	Jacksonville	842,583	Miami	417,650	Tampa	352,957	Orlando	255,483	St. Petersburg	249,688	Hialeah	233,394	Tallahassee	186,411	Fort Lauderdale	172,389	Port St. Lucie	171,016	Cape Coral	165,831	Pembroke Pines	162,329	Hollywood	146,526	Miramar	130,288	Gainesville	127,488	Coral Springs	126,604	Miami Gardens	111,378	Clearwater	109,703	Palm Bay	104,898	Pompano Beach	104,410	West Palm Beach	102,436	Lakeland	100,710
+Georgia	9,992,167	Atlanta	447,841	Columbus	202,824	Augusta	197,350	Savannah	142,772	Athens	119,980
+Hawaii	1,404,054	Honolulu	347,884
+Idaho	1,612,136	Boise	214,237
+Illinois	12,882,135	Chicago	2,718,782	Aurora	199,963	Rockford	150,251	Joliet	147,806	Naperville	144,864	Springfield	117,006	Peoria	116,513	Elgin	110,145
+Indiana	6,570,902	Indianapolis	843,393	Fort Wayne	256,496	Evansville	120,310	South Bend	100,886
+Iowa	3,090,416	Des Moines	207,510	Cedar Rapids	128,429	Davenport	102,157
+Kansas	2,893,957	Wichita	386,552	Overland Park	181,260	Kansas City	148,483	Olathe	131,885	Topeka	127,679
+Kentucky	4,395,295	Louisville	609,893	Lexington	308,428
+Louisiana	4,625,470	New Orleans	378,715	Baton Rouge	229,426	Shreveport	200,327	Lafayette	124,276
+Maine	1,328,302	none	0
+Maryland	5,928,814	Baltimore	622,104
+Massachusetts	6,692,824	Boston	645,966	Worcester	182,544	Springfield	153,703	Lowell	108,861	Cambridge	107,289
+Michigan	9,895,622	Detroit	688,701	Grand Rapids	192,294	Warren	134,873	Sterling Heights	131,224	Ann Arbor	117,025	Lansing	113,972
+Minnesota	5,420,380	Minneapolis	400,070	Saint Paul	294,873	Rochester	110,742
+Mississippi	2,991,207	Jackson	172,638
+Missouri	6,044,171	Kansas City	467,007	St. Louis	318,416	Springfield	164,122	Independence	117,240	Columbia	115,276
+Montana	1,015,165	Billings	109,059
+Nebraska	1,868,516	Omaha	434,353	Lincoln	268,738
+Nevada	2,790,136	Las Vegas	603,488	Henderson	270,811	Reno	233,294	North Las Vegas	226,877
+New Hampshire	1,323,459	Manchester	110,378
+New Jersey	8,899,339	Newark	278,427	Jersey City	257,342	Paterson	145,948	Elizabeth	127,558	Edison	101,450
+New Mexico	2,085,287	Albuquerque	556,495	Las Cruces	101,324
+New York	19,651,127	New York	8,405,837	Buffalo	258,959	Rochester	210,358	Yonkers	199,766	Syracuse	144,669
+North Carolina	9,848,060	Charlotte	792,862	Raleigh	431,746	Greensboro	279,639	Durham	245,475	Winston Salem	236,441	Fayetteville	204,408	Cary	151,088	Wilmington	112,067	High Point	107,741
+North Dakota	723,393	Fargo	113,658
+Ohio	11,570,808	Columbus	822,553	Cleveland	390,113	Cincinnati	297,517	Toledo	282,313	Akron	198,100	Dayton	143,355
+Oklahoma	3,850,568	Oklahoma City	610,613	Tulsa	398,121	Norman	118,197	Broken Arrow	103,500
+Oregon	3,930,065	Portland	609,456	Salem	160,614	Eugene	159,190	Gresham	109,397
+Pennsylvania	12,773,801	Philadelphia	1,553,165	Pittsburgh	305,841	Allentown	118,577	Erie	100,671
+Rhode Island	1,051,511	Providence	177,994
+South Carolina	4,774,839	Columbia	133,358	Charleston	127,999	North Charleston	104,054
+South Dakota	844,877	Sioux Falls	164,676
+Tennessee	6,495,978	Memphis	653,450	Nashville	634,464	Knoxville	183,270	Chattanooga	173,366	Clarksville	142,357	Murfreesboro	117,044
+Texas	26,448,193	Houston	2,195,914	San Antonio	1,409,019	Dallas	1,257,676	Austin	885,400	Fort Worth	792,727	El Paso	674,433	Arlington	379,577	Corpus Christi	316,381	Plano	274,409	Laredo	248,142	Lubbock	239,538	Garland	234,566	Irving	228,653	Amarillo	196,429	Grand Prairie	183,372	Brownsville	181,860	Pasadena	152,735	McKinney	148,559	Mesquite	143,484	Killeen	137,147	Frisco	136,791	McAllen	136,639	Waco	129,030	Carrollton	126,700	Midland	123,933	Denton	123,099	Abilene	120,099	Beaumont	117,796	Odessa	110,720	Round Rock	109,821	Wichita Falls	104,898	Richardson	104,475	Lewisville	101,074	Tyler	100,223	Pearland	100,065	College Station	100,050
+Utah	2,900,872	Salt Lake City	191,180	West Valley City	133,579	Provo	116,288	West Jordan	110,077
+Vermont	626,630	none	0
+Virginia	8,260,405	Virginia Beach	448,479	Norfolk	246,139	Chesapeake	230,571	Richmond	214,114	Newport News	182,020	Alexandria	148,892	Hampton	136,699
+Washington	6,971,406	Seattle	652,405	Spokane	210,721	Tacoma	203,446	Vancouver	167,405	Bellevue	133,992	Kent	124,435	Everett	105,370
+West Virginia	1,854,304	none	0
+Wisconsin	5,742,713	Milwaukee	599,164	Madison	243,344	Green Bay	104,779
+Wyoming	582,658	none	0

@@ -1,0 +1,10 @@
+For 1 Busted 11.53% of the time
+For 2 Busted 35.36% of the time
+For 3 Busted 37.38% of the time
+For 4 Busted 39.46% of the time
+For 5 Busted 41.64% of the time
+For 6 Busted 42.32% of the time
+For 7 Busted 26.24% of the time
+For 8 Busted 24.47% of the time
+For 9 Busted 22.86% of the time
+For 10 Busted 21.22% of the time

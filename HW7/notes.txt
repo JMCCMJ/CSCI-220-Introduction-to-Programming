@@ -1,0 +1,1 @@
+function jump once then right after check for button
